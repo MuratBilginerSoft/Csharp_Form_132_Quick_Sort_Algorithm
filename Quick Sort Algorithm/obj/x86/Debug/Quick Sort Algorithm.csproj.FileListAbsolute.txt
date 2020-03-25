@@ -1,0 +1,31 @@
+F:\ \4 PROGRAMLAMA\1 C# 2012\Quick Sort Algorithm\Quick Sort Algorithm\obj\x86\Debug\Quick_Sort_Algorithm.Form1.resources
+F:\ \4 PROGRAMLAMA\1 C# 2012\Quick Sort Algorithm\Quick Sort Algorithm\obj\x86\Debug\Quick_Sort_Algorithm.Properties.Resources.resources
+F:\ \4 PROGRAMLAMA\1 C# 2012\Quick Sort Algorithm\Quick Sort Algorithm\obj\x86\Debug\Quick Sort Algorithm.csproj.GenerateResource.Cache
+F:\ \4 PROGRAMLAMA\1 C# 2012\Quick Sort Algorithm\Quick Sort Algorithm\bin\Debug\Quick Sort Algorithm.exe
+F:\ \4 PROGRAMLAMA\1 C# 2012\Quick Sort Algorithm\Quick Sort Algorithm\bin\Debug\Quick Sort Algorithm.pdb
+F:\ \4 PROGRAMLAMA\1 C# 2012\Quick Sort Algorithm\Quick Sort Algorithm\obj\x86\Debug\Quick Sort Algorithm.exe
+F:\ \4 PROGRAMLAMA\1 C# 2012\Quick Sort Algorithm\Quick Sort Algorithm\obj\x86\Debug\Quick Sort Algorithm.pdb
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\18 Quick Sort Algorithm\Quick Sort Algorithm\obj\x86\Debug\Quick Sort Algorithm.pdb
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\18 Quick Sort Algorithm\Quick Sort Algorithm\bin\Debug\Quick Sort Algorithm.exe
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\18 Quick Sort Algorithm\Quick Sort Algorithm\bin\Debug\Quick Sort Algorithm.pdb
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\18 Quick Sort Algorithm\Quick Sort Algorithm\obj\x86\Debug\Quick_Sort_Algorithm.Form1.resources
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\18 Quick Sort Algorithm\Quick Sort Algorithm\obj\x86\Debug\Quick_Sort_Algorithm.Properties.Resources.resources
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\18 Quick Sort Algorithm\Quick Sort Algorithm\obj\x86\Debug\Quick Sort Algorithm.csproj.GenerateResource.Cache
+H:\x\1 Murat\4 Yazılım\1 C# Programlama\4 Yazılanlar\18 Quick Sort Algorithm\Quick Sort Algorithm\obj\x86\Debug\Quick Sort Algorithm.exe
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\2 Kod Bank Projeler\27 Quick Sort Algorithm\Quick Sort Algorithm\obj\x86\Debug\Quick Sort Algorithm.exe
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\2 Kod Bank Projeler\27 Quick Sort Algorithm\Quick Sort Algorithm\obj\x86\Debug\Quick Sort Algorithm.pdb
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\2 Kod Bank Projeler\27 Quick Sort Algorithm\Quick Sort Algorithm\bin\Debug\Quick Sort Algorithm.exe
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\2 Kod Bank Projeler\27 Quick Sort Algorithm\Quick Sort Algorithm\bin\Debug\Quick Sort Algorithm.pdb
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\2 Kod Bank Projeler\27 Quick Sort Algorithm\Quick Sort Algorithm\obj\x86\Debug\Quick_Sort_Algorithm.Form1.resources
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\2 Kod Bank Projeler\27 Quick Sort Algorithm\Quick Sort Algorithm\obj\x86\Debug\Quick_Sort_Algorithm.Properties.Resources.resources
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\2 Kod Bank Projeler\27 Quick Sort Algorithm\Quick Sort Algorithm\obj\x86\Debug\Quick Sort Algorithm.csproj.GenerateResource.Cache
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\2 Kod Bank Projeler\27 Quick Sort Algorithm\Quick Sort Algorithm\obj\x86\Debug\Quick Sort Algorithm.csprojResolveAssemblyReference.cache
+F:\M & B\1 Murat\3 Yazılım\1 C# Programlama\3 Projeler\Projeler\Yenilenecekler\149 Kodbank C# Görsel Programlama 149 Quick Sort Algorithm\Quick Sort Algorithm\obj\x86\Debug\Quick Sort Algorithm.pdb
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\70 Quick Sort Algorithm\Quick Sort Algorithm\obj\x86\Debug\Quick Sort Algorithm.exe
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\70 Quick Sort Algorithm\Quick Sort Algorithm\obj\x86\Debug\Quick Sort Algorithm.pdb
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\70 Quick Sort Algorithm\Quick Sort Algorithm\bin\Debug\Quick Sort Algorithm.exe
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\70 Quick Sort Algorithm\Quick Sort Algorithm\bin\Debug\Quick Sort Algorithm.pdb
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\70 Quick Sort Algorithm\Quick Sort Algorithm\obj\x86\Debug\Quick Sort Algorithm.csprojResolveAssemblyReference.cache
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\70 Quick Sort Algorithm\Quick Sort Algorithm\obj\x86\Debug\Quick_Sort_Algorithm.Form1.resources
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\70 Quick Sort Algorithm\Quick Sort Algorithm\obj\x86\Debug\Quick_Sort_Algorithm.Properties.Resources.resources
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\70 Quick Sort Algorithm\Quick Sort Algorithm\obj\x86\Debug\Quick Sort Algorithm.csproj.GenerateResource.Cache
